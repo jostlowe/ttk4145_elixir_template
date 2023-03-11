@@ -1,4 +1,4 @@
-# Ttk4145ElixirTemplate
+# TTK4145 Elixir Template
 
 ## Disclaimer
 I take no responsibility for your use of this code. Use at your own account, be smart and make good choices
